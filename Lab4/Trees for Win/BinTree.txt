@@ -1,0 +1,17 @@
+DEPEBO
+  24   Vasia
+12 Petia
+36   Kolia
+  8	Nadia Novikova
+ 	   18 Youra 	
+28 Senia
+38 Illia
+6 Aaron
+17 Sarah
+14 Joshuah
+22 Moses
+31 Abraham
+45 James
+42 Paul
+
+

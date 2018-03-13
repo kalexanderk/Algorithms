@@ -1,0 +1,18 @@
+
+Time to sort array of 100 elements QuickSort: 0.026
+826 - compares; 510 moves 
+
+Time to sort array of 100 elements InsSort: 0.001
+39104 - compares; 1584 moves 
+
+Time to sort array of 1000 elements QuickSort: 0.307
+11911 - compares; 8580 moves 
+
+Time to sort array of 1000 elements InsSort: 0.004
+249663 - compares; 999 moves 
+
+Time to sort array of 10000 elements QuickSort: 3.175
+164302 - compares; 128796 moves 
+
+Time to sort array of 10000 elements InsSort: 0.127
+24704919 - compares; 9999 moves 

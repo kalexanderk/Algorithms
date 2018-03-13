@@ -1,0 +1,17 @@
+Mandragora
+  24 Root
+12 Harry Potter
+36  Lord Voldemort
+  8	Hermione Granger
+ 	   18 Ron Weasley
+28 Draco Malfoy
+38 Death Eaters
+6 Albus Dumbledore
+17 Hagrid
+14 Nevillle Longbottom
+22 Ginny Weasley
+31 Severus Snape
+45 Dementors
+42 Tom Riddle
+
+
